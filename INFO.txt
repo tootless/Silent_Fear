@@ -1,0 +1,58 @@
+Name:
+Silent Fear
+
+IDEA:
+Platformer, simple
+In a dungeon, have to get out
+You are a pacifist, who cannot kill mobs
+
+
+abstract:
+
+2D world
+
+collect stuff
+
+move around with a few different mechanics
+
+obstacles to avoid (sometimes they are alive)
+
+CONTENT:
+player model{
+
+	jump/landing effect + sound
+	footstep sound
+	sliding sound
+
+	movement mechanics:
+		run
+		jump
+		wall slide
+		rope grab / release
+		big jump
+}
+
+background{ dungeon }
+
+enemy / obstacle model(s){
+	venus flytrap thing
+	cannon
+	prisoner
+}
+
+terrain {
+	platforms (rock)
+	swinging ropes (have to catch)
+}
+
+
+GUIDELINES:
+Make a repository, upload every time
+
+Make a goal for each time you gamedev, you don't do more than that
+
+Don't be a perfectionist
+
+Finish by AUG 31, then move on to new ideas
+
+
